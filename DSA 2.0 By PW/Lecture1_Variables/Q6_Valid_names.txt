@@ -1,0 +1,11 @@
+How many of these can be a variable name?
+
+01PWskills             - Not Valid (Can not start with numbers)
+
+_FLOAT                 - Valid (Can start with Underscode)
+
+int                    - Not Valid (Special Reserved word)
+
+FLOAT                  - Valid  (can not in small letters)
+
+You will succeed       - Not Valid (White space)  
